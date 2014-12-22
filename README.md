@@ -35,7 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Nuncius inanimatusGodwin, Francis, 1562-1633.1629Approx. 19 KB of XML-encoded text transcribed from 
+
+1. NVNCIVS
+INANIMATVS.
+
+1. LECTORI
+DE AVTHORE.
+
 **Types of content**
 
   * There are 7 **verse** lines!
